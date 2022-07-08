@@ -1,4 +1,4 @@
 # JavaScript Bootcamp
 
-It is my first trrial of cloning
+It is my trial.
 
